@@ -26,4 +26,4 @@ Requisitos: Java 17 y uv.
     uv run --python 3.11 --with pyspark --with "pandas<3" --with matplotlib --with pyarrow taxi_batch_spark.py
 
 ## Autora
-Tu nombre aquí
+ana salcedo
